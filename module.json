@@ -1,0 +1,199 @@
+{
+	"module": {
+		"id": "RGue5cn-33Q",
+		"status": "active"
+	},
+	"units": [{
+			"id": "aueicn-23A",
+			"status": "active",
+			"unit_weight": {
+				"unit": "gram",
+				"measurement": 3142
+			},
+			"biomass_weight": {
+				"unit": "gram",
+				"measurement": 1001
+			},
+			"CO2_levels": {
+				"unit": "ppm",
+				"measurement": 1900
+			},
+			"water_levels": {
+				"unit": "liter",
+				"measurement": 1.0
+			},
+			"temperature": {
+				"unit": "Celsius",
+				"measurement": 33
+			},
+			"growth_cycle": {
+				"unit": "day",
+				"hour_length": 24,
+				"measurement": 1
+			},
+			"imaging_system": {
+				"status": "active",
+				"current_image": "url"
+			},
+			"pump": {
+				"status": "active",
+				"power_consumption": {
+					"unit": "watt",
+					"measurement": 22.1
+				}
+			},
+			"soil_nutrients": [{
+					"name": "Nitrogen",
+					"unit": "ppm",
+					"measurement": 1510
+				},
+				{
+					"name": "Phosphorus",
+					"unit": "ppm",
+					"measurement": 2523
+				},
+				{
+					"name": "Potassium",
+					"unit": "ppm",
+					"measurement": 500
+				},
+				{
+					"name": "Magnesium",
+					"unit": "ppm",
+					"measurement": 557
+				},
+				{
+					"name": "Sulfur",
+					"unit": "ppm",
+					"measurement": 340
+				},
+				{
+					"name": "Calcium",
+					"unit": "ppm",
+					"measurement": 5260
+				}
+			],
+			"robotics": {
+				"arm_1": {
+					"name": "Robot Arm 1",
+					"status": "active",
+					"current_location": {
+						"x": 23,
+						"y": 13,
+						"z": 2
+					}
+				},
+				"arm_2": {
+					"name": "Robot Arm 2",
+					"status": "active",
+					"current_location": {
+						"x": 33,
+						"y": 40,
+						"z": 2
+					}
+				}
+
+			}
+
+		},
+		{
+			"id": "aueicn-23A",
+			"status": "active",
+			"unit_weight": {
+				"unit": "gram",
+				"measurement": 3043
+			},
+			"biomass_weight": {
+				"unit": "gram",
+				"measurement": 1091
+			},
+			"CO2_levels": {
+				"unit": "ppm",
+				"measurement": 1800
+			},
+			"water_levels": {
+				"unit": "liter",
+				"measurement": 1.3
+			},
+			"temperature": {
+				"unit": "Celsius",
+				"measurement": 1.3
+			},
+			"growth_cycle": {
+				"unit": "day",
+				"hour_length": 24,
+				"measurement": 4
+			},
+			"imaging_system": {
+				"status": "active",
+				"current_image": "url"
+			},
+			"pump": {
+				"status": "active",
+				"power_consumption": {
+					"unit": "watt",
+					"measurement": 24
+				}
+			},
+			"soil_nutrients": [{
+					"name": "Nitrogen",
+					"unit": "ppm",
+					"measurement": 1500
+				},
+				{
+					"name": "Phosphorus",
+					"unit": "ppm",
+					"measurement": 2520
+				},
+				{
+					"name": "Potassium",
+					"unit": "ppm",
+					"measurement": 400
+				},
+				{
+					"name": "Magnesium",
+					"unit": "ppm",
+					"measurement": 550
+				},
+				{
+					"name": "Sulfur",
+					"unit": "ppm",
+					"measurement": 300
+				},
+				{
+					"name": "Calcium",
+					"unit": "ppm",
+					"measurement": 5100
+				}
+			],
+			"robotics": {
+				"arm_1": {
+					"name": "Robot Arm 1",
+					"status": "active",
+					"current_location": {
+						"x": 13,
+						"y": 3,
+						"z": 2
+					}
+				},
+				"arm_2": {
+					"name": "Robot Arm 2",
+					"status": "active",
+					"current_location": {
+						"x": 13,
+						"y": 3,
+						"z": 2
+					}
+				}
+
+			}
+
+		},
+		{
+			"unit": {
+				"id": "bueign-23B"
+			}
+		}
+
+	]
+}
