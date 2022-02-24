@@ -6,7 +6,7 @@
 	"units": [{
 			"id": "aueicn-23A",
 			"status": "active",
-			"unit_weight": {
+			"garden_plot_weight": {
 				"unit": "gram",
 				"measurement": 3142
 			},
@@ -97,9 +97,9 @@
 
 		},
 		{
-			"id": "aueicn-23A",
+			"id": "abeicx-23B",
 			"status": "active",
-			"unit_weight": {
+			"garden_plot_weight": {
 				"unit": "gram",
 				"measurement": 3043
 			},
@@ -178,7 +178,7 @@
 				},
 				"arm_2": {
 					"name": "Robot Arm 2",
-					"status": "active",
+					"status": "inactive",
 					"current_location": {
 						"x": 13,
 						"y": 3,
