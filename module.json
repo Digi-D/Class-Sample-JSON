@@ -33,7 +33,7 @@
 			},
 			"imaging_system": {
 				"status": "active",
-				"current_image": "url"
+				"current_image": "https://github.com/Digi-D/Class-Sample-JSON/blob/main/mars_food_production.jpg_1.jpeg"
 			},
 			"pump": {
 				"status": "active",
@@ -126,7 +126,7 @@
 			},
 			"imaging_system": {
 				"status": "active",
-				"current_image": "url"
+				"current_image": "https://github.com/Digi-D/Class-Sample-JSON/blob/main/mars_food_production.jpg_1.jpeg"
 			},
 			"pump": {
 				"status": "active",
